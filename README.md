@@ -1,6 +1,6 @@
 
 # Learn Via AI
-![Logo](https://github.com/Learn-Via-AI/communicator/blob/master/logo.png)
+![Logo](https://github.com/Learn-Via-AI/communicator/blob/main/logo.png)
 
 
 ## Architecture
